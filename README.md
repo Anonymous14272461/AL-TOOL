@@ -30,5 +30,4 @@ works on any of the following operating systems:
 We are not responsible for any misuse or damage caused by this program. Use this tool at your own risk!
 
 
-❤️ Support me:
-https://www.paypal.me/Relvllahi
+
